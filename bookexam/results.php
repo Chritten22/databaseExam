@@ -64,7 +64,7 @@ include('includes/header.php');
                 <td>Year</td>
                 <td>Publisher</td>
 			          <td>Bookstore</td>
-                <td>Price</td>
+                <td>Price (kr)</td>
                 <td>ISBN</td>
 			        </tr>
 			    </thead>
