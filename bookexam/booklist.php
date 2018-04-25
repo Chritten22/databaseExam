@@ -29,7 +29,7 @@ if ($result)
       <th>Year</th>
       <th>Publisher</th>
       <th>Bookstore</th>
-      <th>Price</th>
+      <th>Price (kr)</th>
       <th>ISBN</th>
     </tr>
   </thead>
